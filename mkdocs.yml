@@ -1,0 +1,6 @@
+site_name: Makerbuino game dev tutorial
+theme: readthedocs
+pages:
+    - Introduction: index.md
+    - First program: firstprogram.md
+    - About: about.md
